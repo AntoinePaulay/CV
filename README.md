@@ -1,3 +1,7 @@
+## Antoine Paulay            
+
+![photo de moi ](https://github.com/AntoinePaulay/CV/blob/main/IMG_9239%20(2).jpg)
+
 ### Presentation 
 
 ###### Suite à de nombreuses années dans le chauffage, je souhaite me reconvertir en tant que Technicien Supérieur Systèmes et Réseaux. Motivé, j’ai de nombreuses compétences à apporter telles que mon efficacité dans l’analyse de situation et la résolution de problématiques.
@@ -23,5 +27,4 @@
 * Bricolage
 * Drone 
 
-[Voici ma photo](https://github.com/AntoinePaulay/Photo/blob/main/IMG_9239.jpg)
 
