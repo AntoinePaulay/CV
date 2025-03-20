@@ -1,24 +1,29 @@
 
-Antoine Paulay
-302 La Belletiere 
-0659200014
+Antoine Paulay\
+302 La Belletiere\
+0659200014\
 Antoine.paulay@gmail.com
-Objet : Candidature pour le poste de Technicien Supérieur Systèmes et Réseaux
-Monsieur,
+
+Objet : Candidature pour le poste de Technicien Supérieur Systèmes et Réseaux\
+
+
+Madame, Monsieur
 
 Je me permets de vous contacter concernant l’offre d'emploi de technicien systèmes et réseaux. Suite à une reconversion professionnelle due à des problèmes de santé, je suis à la recherche d'un poste dans ce domaine.
 
 Bien conscient que mon manque d'expérience puisse être perçu comme un frein à l'embauche, ma motivation et mon désir de réintégrer la vie active sont des atouts importants.Je tiens à préciser que je suis titulaire d'une reconnaissance de la qualité de travailleur handicapé (RQTH).
+
 Mon expérience précédente dans la maintenance et le service client m'a permis de développer une grande capacité d'adaptation, un sens aigu de l'organisation et une aptitude à résoudre efficacement les problèmes. J'ai notamment acquis des compétences en gestion de projets, en résolution de problèmes techniques complexes et en communication, que je souhaite mettre à profit dans un environnement informatique.
 
-Ma formation récente à la Wild Code School m'a permis d'acquérir des compétences solides et immédiatement opérationnelles, notamment en :
-·	Administration de serveurs Linux et Windows
-·	Gestion de l'Active Directory
-·	Virtualisation (Proxmox, VirtualBox, VMware)
-·	Langages Shell Bash et PowerShell
-·	Technique diagnostique
-·	Analyse de schémas réseaux
-·	Gestion de projets (méthode Agile)
+Ma formation récente à la Wild Code School m'a permis d'acquérir des compétences solides et immédiatement opérationnelles, notamment en:
+
+* Administration de serveurs Linux et Windows
+* Gestion de l'Active Directory
+* Virtualisation (Proxmox, VirtualBox, VMware)
+* Langages Shell Bash et PowerShell
+* Technique diagnostique
+* Analyse de schémas réseaux
+* Gestion de projets (méthode Agile)
 
 Organisé, réfléchi et impliqué, je suis convaincu de pouvoir contribuer rapidement et efficacement à vos projets. 
 
