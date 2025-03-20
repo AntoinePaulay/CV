@@ -31,6 +31,13 @@ Après 15 ans dans la maintenance chauffage et le service client, je me reconver
 
 ---
 
+## 📚 Formation  
+📅 Septembre 2024 - Février 2025  
+🎓 **Technicien Supérieur Systèmes et Réseaux**  
+🏫 Wild code school 
+
+---
+
 ## 💼 Expériences Professionnelles  
 
 ### Responsable SAV  
@@ -65,12 +72,6 @@ Après 15 ans dans la maintenance chauffage et le service client, je me reconver
 
 ---
 
-## 📚 Formation  
-📅 Septembre 2024 - Février 2025  
-🎓 **Technicien Supérieur Systèmes et Réseaux**  
-🏫 École de code sauvage  
-
----
 
 ## 🔹 Qualités  
 - Organisé et réfléchi  
