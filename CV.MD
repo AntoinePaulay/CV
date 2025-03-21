@@ -1,17 +1,11 @@
 
 # Antoine Paulay
-il y a 23 minutes
 
-Créer un CV
-
-maintenant
-
-Mettre à jour le CV
 ## 📞 Contact  
 - 📧 antoine.paulay@gmail.com  
 - 📍 44390 Nort-sur-Erdre  
 - 📱 06 59 20 00 14  
-
+- RQTH ( difficultés a lever les bras ) 
 ---
 
 ## 🎯 Objectif  
